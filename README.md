@@ -28,7 +28,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=000000&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&labelColor=007ACC)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=ffffff&labelColor=E34F26)
-![Kubernates](https://img.shields.io/badge/-Kubernates-000000?style=flat&logo=k8s&logoColor=ffffff&labelColor=1572B6) 
+![Kubernates](https://img.shields.io/badge/-Kubernates-000000?style=flat&logo=kubernate&logoColor=ffffff&labelColor=1572B6) 
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform&logoColor=ffffff&labelColor=%23CC6699)
 
 💻 **Cloud Vendors:** 🛠️<br>
