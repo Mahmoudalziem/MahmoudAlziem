@@ -12,10 +12,7 @@ https://simpleicons.org/
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Mahmoud%20Abd%20Alziem-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/m-elziem/)
 [![Mail](https://img.shields.io/badge/gmail-mahmoudalziem98@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:mahmoudalziem98@gmail.com)
-<br>
-[![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
-[![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
+[![HackerRank](https://img.shields.io/badge/HackerRank-mbdalzym376-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/mbdalzym376)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Mahmoud Abd Alziem</strong></samp></h2>
 <h3 align='center'><strong><a href="http://azima.website" target="_blank">Portfolio🌐</a></strong></h3>
