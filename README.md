@@ -11,8 +11,8 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Mahmoud%20Abd%20Alziem-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/m-elziem/)
-[![Mail](https://img.shields.io/badge/gmail-Mahmoud-Abd-Alziem-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:mahmoudalziem98@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Mahmoud-Abd-Aliem-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/mbdalzym376)
+[![Mail](https://img.shields.io/badge/gmail%20Mahmoud%20Abd%20Alziem-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:mahmoudalziem98@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Mahmoud%20Abd%20Aliem-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/mbdalzym376)
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Mahmoud Abd Alziem</strong></samp></h2>
 <h3 align='center'><strong><a href="http://azima.website" target="_blank">Portfolio🌐</a></strong></h3>
