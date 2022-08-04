@@ -33,7 +33,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 💻 **Cloud Vendors:** 🛠️<br>
 
-![Aws](https://img.shields.io/badge/-Aws-000000?style=flat&logo=aws&logoColor=F05032&labelColor=ffffff)
+![Aws](https://img.shields.io/badge/-Aws-000000?style=flat&logo=amazon-web-services&logoColor=F05032&labelColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=azure&logoColor=000000&labelColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=007ACC)
 
