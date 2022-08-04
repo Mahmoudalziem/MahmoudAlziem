@@ -11,7 +11,7 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Mahmoud%20Abd%20Alziem-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/m-elziem/)
-[![Mail](https://img.shields.io/badge/gmail-mahmoud@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mahmoud@hotmail.com)
+[![Mail](https://img.shields.io/badge/gmail-mahmoudalziem98@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:mahmoudalziem98@gmail.com)
 <br>
 [![HackerRank](https://img.shields.io/badge/HackerRank-sawalqa_jo-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/sawalqa_jo)
 [![Codepen](https://img.shields.io/badge/Codewars-Ahmad%20Sawalqeh-maroon?logo=codewars&logoColor=maroon&labelColor=black)](https://www.codewars.com/users/Ahmad-Sawalqeh)
