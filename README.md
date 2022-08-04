@@ -24,12 +24,12 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 💻 **Automation Tools:** 🛠️<br>
 
-![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![Kubernates](https://img.shields.io/badge/-Kubernates-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=ansible&logoColor=F05032&labelColor=ffffff)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=000000&labelColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&labelColor=007ACC)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=ffffff&labelColor=E34F26)
+![Kubernates](https://img.shields.io/badge/-Kubernates-000000?style=flat&logo=kubernates&logoColor=ffffff&labelColor=1572B6) 
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform&logoColor=ffffff&labelColor=%23CC6699)
 
 💻 **Cloud Vendors:** 🛠️<br>
 
