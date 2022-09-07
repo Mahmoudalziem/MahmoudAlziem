@@ -20,7 +20,8 @@ https://simpleicons.org/
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life.I love operation build more and more automation scripts daily,my live consists Of automation - devops - develpoment, I love development working on multiable programming language with my piece of cacke and coffee, unstopped learner ,loves working with cutting edge tools and technologies.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+
+🧐 **Knowledge of:**<br>
 
 💻 **Automation Tools:** 🛠️<br>
 
@@ -30,6 +31,12 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=ffffff&labelColor=E34F26)
 ![Kubernates](https://img.shields.io/badge/-Kubernates-000000?style=flat&logo=kubernate&logoColor=ffffff&labelColor=1572B6) 
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform&logoColor=ffffff&labelColor=%23CC6699)
+
+💻 **Monitoring Tools:** 🛠️<br>
+
+![ELK](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=elk&logoColor=F05032&labelColor=ffffff)
+![PROMETHEUS](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=prometheus&logoColor=000000&labelColor=ffffff)
+![GRAFANA](https://img.shields.io/badge/-Git-000000?style=flat&logo=grafana&labelColor=007ACC)
 
 💻 **Cloud Vendors:** 🛠️<br>
 
@@ -63,8 +70,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-
-🧐 **Knowledge of:**<br>
 
 `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
