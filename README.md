@@ -38,11 +38,12 @@ https://simpleicons.org/
 ![PROMETHEUS](https://img.shields.io/badge/-prometheus-000000?style=flat&logo=prometheus&logoColor=000000&labelColor=ffffff)
 ![GRAFANA](https://img.shields.io/badge/-grafana-000000?style=flat&logo=grafana&labelColor=007ACC)
 
-💻 **Cloud Vendors:** 🛠️<br>
+💻 **Cloud Vendors And Deployment platforms:** 🛠️<br>
 
 ![Aws](https://img.shields.io/badge/-Aws-000000?style=flat&logo=amazon-web-services&logoColor=F05032&labelColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=azure&logoColor=000000&labelColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=007ACC)
+<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
  **Database Engine:** 🛠️<br>
 
@@ -72,11 +73,6 @@ https://simpleicons.org/
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-
-
-🌍 **Deployment platforms:**<br>
-
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
 
 🚩 **Highlights:** <br>
