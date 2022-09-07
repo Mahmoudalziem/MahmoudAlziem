@@ -90,7 +90,7 @@ https://simpleicons.org/
 
 🤓 **Interested:** <br>
 
-  Machine Learning - AI - Data Science
+  `Machine Learning` - `AI` - `Data Science`
 <!-- ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudalziem&repo=my_resume)](https://github.com/Mahmoudalziem/my_resume)
