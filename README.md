@@ -38,6 +38,13 @@ https://simpleicons.org/
 ![PROMETHEUS](https://img.shields.io/badge/-prometheus-000000?style=flat&logo=prometheus&logoColor=000000&labelColor=ffffff)
 ![GRAFANA](https://img.shields.io/badge/-grafana-000000?style=flat&logo=grafana&labelColor=007ACC)
 
+
+💻 **Microservices Communication:** 🛠️<br>
+
+![Kafka](https://img.shields.io/badge/-kafka-000000?style=flat&logo=kafka&logoColor=F05032&labelColor=ffffff)
+![rabbitmq](https://img.shields.io/badge/-rabbitmq-000000?style=flat&logo=rabbitmq&logoColor=000000&labelColor=ffffff)
+![Rpc](https://img.shields.io/badge/-rpc-000000?style=flat&logo=rpc&labelColor=007ACC)
+
 💻 **Cloud Vendors And Deployment platforms:** 🛠️<br>
 
 ![Aws](https://img.shields.io/badge/-Aws-000000?style=flat&logo=amazon-web-services&logoColor=F05032&labelColor=ffffff)
@@ -73,17 +80,12 @@ https://simpleicons.org/
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-
-
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
-
-
-📚 **Working on:** <br>
-
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
+
+🚩 **Highlights:** <br>
+&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
 
 
 🤓 **Interested:** <br>
