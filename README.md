@@ -34,9 +34,9 @@ https://simpleicons.org/
 
 💻 **Monitoring Tools:** 🛠️<br>
 
-![ELK](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=elk&logoColor=F05032&labelColor=ffffff)
-![PROMETHEUS](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=prometheus&logoColor=000000&labelColor=ffffff)
-![GRAFANA](https://img.shields.io/badge/-Git-000000?style=flat&logo=grafana&labelColor=007ACC)
+![ELK](https://img.shields.io/badge/-elk-000000?style=flat&logo=elk&logoColor=F05032&labelColor=ffffff)
+![PROMETHEUS](https://img.shields.io/badge/-prometheus-000000?style=flat&logo=prometheus&logoColor=000000&labelColor=ffffff)
+![GRAFANA](https://img.shields.io/badge/-grafana-000000?style=flat&logo=grafana&labelColor=007ACC)
 
 💻 **Cloud Vendors:** 🛠️<br>
 
