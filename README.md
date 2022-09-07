@@ -90,16 +90,15 @@ https://simpleicons.org/
 
 🤓 **Interested:** <br>
 
+  Machine Learning - AI - Data Science
+<!-- ✅  **GitHub Extra Pins**
 
-✅  **GitHub Extra Pins**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahmoudalziem&repo=my_resume)](https://github.com/Mahmoudalziem/my_resume)
+ -->
 </br>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=MahmoudAlziem" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-
   <img style="border-radius: 5px; margin: 0 0 5px 35px; display: flex;" alt="JPG" width="320px" height="240px" src="https://i.pinimg.com/564x/86/a5/c3/86a5c3d60724c2aa8fc4484e772963d2.jpg" />
  
 </p>
