@@ -46,9 +46,8 @@ https://simpleicons.org/
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![php](https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=F05032&labelColor=ffffff)
+![laravel](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=000000&labelColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
@@ -69,9 +68,6 @@ https://simpleicons.org/
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
-
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
 
 🌍 **Deployment platforms:**<br>
